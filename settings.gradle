@@ -1,0 +1,2 @@
+rootProject.name = "DVT"
+include ':app'

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DVT</string>
+    <string name="dvt_weather">DVT Weather</string>
+    <string name="_25_c">25°C</string>
+    <string name="sunny">SUNNY</string>
+    <string name="cloudy">CLOUDY</string>
+    <string name="rainy">RAINY</string>
+    <string name="min">min</string>
+    <string name="current">Current</string>
+    <string name="max">max</string>
+    <string name="APIString">d9abb2c1d05c5882e937cffd1ecd4923</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading...</string>
+    <string name="unable_to_fetch">Unable to fetch data</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="search">Search</string>
+    <string name="save">Save to favourites</string>
+</resources>

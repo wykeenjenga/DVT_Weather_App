@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF01579B</color>
+    <color name="colorPrimaryDark">#FF01579B</color>
+    <color name="colorAccent">#FF01579B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="sunnyColor">#47AB2F</color>
+    <color name="sunnyColorGreenO">#489E34</color>
+    <color name="sunnyColorGreenT">#6547AB2F</color>
+
+    <color name="cloudyColor">#54717A</color>
+    <color name="cloudyColorO">#B254717A</color>
+    <color name="cloudyColorT">#8054717A</color>
+
+    <color name="rainyColor">#57575D</color>
+    <color name="rainyColorGrayO">#B557575D</color>
+    <color name="rainyColorGrayT">#5957575D</color>
+
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+
+
+
+
+</resources>
