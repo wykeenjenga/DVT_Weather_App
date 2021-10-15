@@ -216,8 +216,8 @@ public class TodayFragment extends Fragment {
                     tMinTemperature.setText(new DVTConverter().getCelcius(weatherResponse.main.temp_min)+"°C");
                     tMaxTemperature.setText(new DVTConverter().getCelcius(weatherResponse.main.temp_max)+"°C");
                     currentTemperature.setText(new DVTConverter().getCelcius(weatherResponse.main.temp));
-                    tempCondation.setText(weatherResponse.name+"\t\t"+weatherResponse.sys.country);
-                    //tempCondation.setText(String.valueOf(weatherResponse.weather.get(0).main));
+                    //tempCondation.setText(weatherResponse.name+"\t\t"+weatherResponse.sys.country);
+                    tempCondation.setText(String.valueOf(weatherResponse.weather.get(0).main));
                     setBackgroundDrawable(String.valueOf(weatherResponse.weather.get(0).main));
 
                     getForecast(latitude,longitude);
